@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(front-view-black-hourglass-dark-surface.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+.stopwatch{
+    height: 35vmin;
+    width: 50vmin;
+    padding: 40px 10px 10px 10px;
+    text-align: center;
+    margin-top: 17% ;
+    margin-left: 37%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(235, 247, 235);
+}
+.stopwatch a{
+    color: rgb(107, 105, 68);
+    font-size: xx-large;
+    
+}
+.stopwatch h1{
+    font-size: xxx-large;
+    color: rgb(63, 63, 63);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.buttons img{
+    height: 5vmin;
+    padding:7px ;
+}
